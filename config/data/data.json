@@ -1,0 +1,176 @@
+[
+    {
+        "name": "The Great Gatsby",
+        "price": 10.99,
+        "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "stock": 50
+    },
+    {
+        "name": "To Kill a Mockingbird",
+        "price": 12.99,
+        "image": "mockhttps://images.unsplash.com/photo-1541963463532-d68292c34b19?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dingbird.jpg",
+        "stock": 30
+    },
+    {
+        "name": "1984",
+        "price": 14.99,
+        "image": "https://plus.unsplash.com/premium_photo-1677013622212-2cd4260dee5c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "stock": 20
+    },
+    {
+        "name": "The Catcher in the Rye",
+        "price": 11.99,
+        "image": "https://images.unsplash.com/photo-1576872381149-7847515ce5d8?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "stock": 40
+    },
+    {
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "price": 16.99,
+        "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "stock": 25
+    },
+    {
+        "name": "The Hobbit",
+        "price": 13.99,
+        "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "stock": 35
+    },
+    {
+        "name": "Pride and Prejudice",
+        "price": 9.99,
+        "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "stock": 60
+    },
+    {
+        "name": "The Lord of the Rings",
+        "price": 18.99,
+        "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "stock": 15
+    },
+    {
+        "name": "The Alchemist",
+        "price": 15.99,
+        "image": "alchemist.jpg",
+        "stock": 22
+    },
+    {
+        "name": "The Girl with the Dragon Tattoo",
+        "price": 17.99,
+        "image": "dragon_tattoo.jpg",
+        "stock": 28
+    },
+    {
+        "name": "The Da Vinci Code",
+        "price": 14.49,
+        "image": "da_vinci_code.jpg",
+        "stock": 32
+    },
+    {
+        "name": "The Shining",
+        "price": 12.99,
+        "image": "the_shining.jpg",
+        "stock": 18
+    },
+    {
+        "name": "The Hunger Games",
+        "price": 11.99,
+        "image": "hunger_games.jpg",
+        "stock": 45
+    },
+    {
+        "name": "The Road",
+        "price": 13.99,
+        "image": "the_road.jpg",
+        "stock": 27
+    },
+    {
+        "name": "Brave New World",
+        "price": 15.99,
+        "image": "brave_new_world.jpg",
+        "stock": 23
+    },
+    {
+        "name": "The Grapes of Wrath",
+        "price": 12.49,
+        "image": "grapes_of_wrath.jpg",
+        "stock": 38
+    },
+    {
+        "name": "The Outsiders",
+        "price": 10.99,
+        "image": "the_outsiders.jpg",
+        "stock": 20
+    },
+    {
+        "name": "Moby-Dick",
+        "price": 16.99,
+        "image": "moby_dick.jpg",
+        "stock": 29
+    },
+    {
+        "name": "The Picture of Dorian Gray",
+        "price": 14.99,
+        "image": "dorian_gray.jpg",
+        "stock": 26
+    },
+    {
+        "name": "One Hundred Years of Solitude",
+        "price": 17.99,
+        "image": "solitude.jpg",
+        "stock": 36
+    },
+    {
+        "name": "The Sun Also Rises",
+        "price": 13.49,
+        "image": "sun_also_rises.jpg",
+        "stock": 31
+    },
+    {
+        "name": "The Great Expectations",
+        "price": 11.99,
+        "image": "great_expectations.jpg",
+        "stock": 42
+    },
+    {
+        "name": "The Odyssey",
+        "price": 15.99,
+        "image": "the_odyssey.jpg",
+        "stock": 24
+    },
+    {
+        "name": "Frankenstein",
+        "price": 12.99,
+        "image": "frankenstein.jpg",
+        "stock": 33
+    },
+    {
+        "name": "The Color Purple",
+        "price": 14.99,
+        "image": "color_purple.jpg",
+        "stock": 19
+    },
+    {
+        "name": "A Tale of Two Cities",
+        "price": 16.99,
+        "image": "tale_of_two_cities.jpg",
+        "stock": 21
+    },
+    {
+        "name": "Les Misérables",
+        "price": 18.99,
+        "image": "les_miserables.jpg",
+        "stock": 17
+    },
+    {
+        "name": "Sapiens: A Brief History of Humankind",
+        "price": 19.99,
+        "image": "sapiens.jpg",
+        "stock": 14
+    },
+    {
+        "name": "The Chronicles of Narnia",
+        "price": 22.99,
+        "image": "narnia.jpg",
+        "stock": 25
+    }
+]
